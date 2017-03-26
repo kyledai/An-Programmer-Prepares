@@ -17,6 +17,7 @@
 <BR><img src="https://github.com/kyledai/An-Programmer-Prepares/blob/master/Chapter1_Image/1_2computerarchitecture.jpg" width="640"/><BR>
 
 1.3站的高，望得遠
+
 "電腦科學領域的任何問題都可以透過另一個中間層而得以解決"
 電腦軟體架構(如下圖)
 每個層次之間都需要相互通信，既然需要通訊就必須要有一個通信協議。我們一般將其稱為接口。接口的下面那層是接口的提供者，由他定義接口；接口的上面那層是接口的使用者，他使用該接口來實現所需要的功能。
