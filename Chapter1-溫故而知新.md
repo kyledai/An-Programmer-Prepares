@@ -6,7 +6,7 @@
 第一章-溫故而知新：介紹基本的硬體知識，包括硬體、作業系統、程序等。
 
 1.1從Hello World說起
-<img src="https://github.com/kyledai/An-Programmer-Prepares/blob/master/Chapter1_Image/questionabouthelloworld.jpg" alt="Drawing" style="width: 200px;"/>
+<img src="https://github.com/kyledai/An-Programmer-Prepares/blob/master/Chapter1_Image/questionabouthelloworld.jpg" style="width: 100px;"/>
 ![image](https://github.com/kyledai/An-Programmer-Prepares/blob/master/Chapter1_Image/questionabouthelloworld.jpg  "Title" {width=64px height=480px})
 一個Hello World會有這麼多問題，我會逐漸介紹，如何仔入程式庫等等的內容...
 
