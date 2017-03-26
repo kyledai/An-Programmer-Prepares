@@ -6,13 +6,12 @@
 第一章-溫故而知新：介紹基本的硬體知識，包括硬體、作業系統、程序等。
 
 1.1從Hello World說起
-<BR><img src="https://github.com/kyledai/An-Programmer-Prepares/blob/master/Chapter1_Image/questionabouthelloworld.jpg" width="640"/>
-
+<BR><img src="https://github.com/kyledai/An-Programmer-Prepares/blob/master/Chapter1_Image/questionabouthelloworld.jpg" width="640"/><BR>
 一個Hello World會有這麼多問題，我會逐漸介紹，如何仔入程式庫等等的內容...
 
 1.2萬變不離其宗
 早期的電腦架構(如下圖)
-<BR><img src="https://github.com/kyledai/An-Programmer-Prepares/blob/master/Chapter1_Image/1_1computerarchitecture.jpg" width="640"/>
+<BR><img src="https://github.com/kyledai/An-Programmer-Prepares/blob/master/Chapter1_Image/1_1computerarchitecture.jpg" width="640"/><BR>
 早期CPU頻率不高記憶體頻率也不高，可以使用一樣的匯流排。 
 採用PCI/ISA及南北橋設計的硬體架構(如下圖)
-<BR><img src="https://github.com/kyledai/An-Programmer-Prepares/blob/master/Chapter1_Image/1_2computerarchitecture.jpg" width="640"/>
+<BR><img src="https://github.com/kyledai/An-Programmer-Prepares/blob/master/Chapter1_Image/1_2computerarchitecture.jpg" width="640"/><BR>
